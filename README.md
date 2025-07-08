@@ -4,8 +4,8 @@
 ## Grupo 2
 
 - Juan Dominid Muñoz Eslava
--
--
+- Ernesto Santiago, Caycho Cuellar
+- Jefferson Andy Gomez Calderon
 
 ## Introducción
 
